@@ -1,0 +1,17 @@
+.skill-img {
+  width: 5vw;
+  margin: 15px;
+}
+
+.list-element {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+
+  margin: 40px;
+}
+
+.name-ele {
+  font-size: 20px;
+  margin-top: 30px;
+}

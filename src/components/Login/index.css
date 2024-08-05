@@ -1,0 +1,61 @@
+.login-bg-container {
+  background-color: black;
+  height: 100vh;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.card-container {
+  background-color: #2c364c;
+  height: 50vh;
+  width: 30vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 15px;
+}
+
+.login-logo {
+  width: 8vw;
+}
+
+.form-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.input-element {
+  background-color: #2c364c;
+  border: 1px solid #b6c5ff;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 20vw;
+  color: #f8fafc;
+}
+
+.login-button {
+  background-color: #6366f1;
+  color: white;
+  width: auto;
+  height: 5vh;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+.label-ele {
+  color: white;
+  font-size: 10px;
+  font-family: roboto;
+  margin-top: 15px;
+}
+
+.error-msg {
+  color: red;
+  font-size: 10px;
+}

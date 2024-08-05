@@ -1,0 +1,39 @@
+.similar-card {
+  background-color: #272727;
+  height: 100%;
+  border-radius: 15px;
+  margin: 15px;
+  width: 25vw;
+  list-style-type: none;
+  padding: 15px;
+}
+
+.company-logo {
+  width: 4vw;
+  margin-top: 10px;
+  margin-right: 15px;
+}
+
+.start-logo {
+  color: #fbbf24;
+  margin-right: 10px;
+  margin-top: 22px;
+}
+
+.flex-container-ele {
+  display: flex;
+  flex-direction: row;
+}
+
+.heading {
+  font-size: 15px;
+}
+
+.flex-container-col {
+  display: flex;
+  flex-direction: column;
+}
+
+.paragraph {
+  font-size: 15px;
+}

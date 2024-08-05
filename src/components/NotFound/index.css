@@ -1,0 +1,22 @@
+.notFound-container {
+  background-color: black;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+
+.not-found {
+  width: 30vw;
+}
+
+.retry-button {
+  background-color: #6366f1;
+  width: 10vw;
+  height: 5vh;
+  border: none;
+  border-radius: 15px;
+  cursor: pointer;
+}
